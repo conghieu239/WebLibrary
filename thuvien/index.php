@@ -16,7 +16,7 @@ include("func.php");
     <title>Thư Viện</title>
 </head>
 
-<body style="background-color: white;">
+<body>
     <div id="main">
 
         <div id="header">
@@ -52,7 +52,7 @@ include("func.php");
         </div>
 
         <!-- Footer -->
-        <br><br><br><br>
+        <br><br><br><br><br>
         <footer id="main-footer">
         <div class="container">
         <div id="introduction" class="row">
